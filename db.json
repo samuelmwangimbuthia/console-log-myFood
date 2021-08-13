@@ -114,7 +114,7 @@
       "id": 1,
       "firstname": "Sam",
       "lastname": "Davies",
-      "email": "sam@acme.com",
+      "emailAddress": "sam@acme.com",
       "log": [
         {
           "1572791640182": {
@@ -127,6 +127,21 @@
           "food": "apple",
           "servingSize": "1.8",
           "calories": 88
+        },
+        {
+          "food": "apple",
+          "servingSize": "4",
+          "calories": 352
+        },
+        {
+          "food": "apple",
+          "servingSize": "6",
+          "calories": 528
+        },
+        {
+          "food": "almonds",
+          "servingSize": "6",
+          "calories": 984
         },
         {
           "food": "apple",
